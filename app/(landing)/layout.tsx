@@ -1,5 +1,5 @@
 import React from 'react'
-import LandingPage from './page'
+
 import LandingPageNavbar from './components/LandingPageNavbar'
 
 function LandingLayout ({
